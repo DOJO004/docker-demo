@@ -1,0 +1,15 @@
+{
+    "name": "api-sqlite-demo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.19.2",
+      "sqlite": "^4.2.1",
+      "sqlite3": "^5.1.7"
+    }
+  }
+  
